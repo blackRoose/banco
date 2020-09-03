@@ -1,0 +1,22 @@
+Anotações sobre banco de dados
+
+DML (Data Manipulation Language)
+    Select
+    Insert
+    Update
+    Delete
+    Merge
+DDL (Data Definition Language)
+    Create
+    Alter
+    Drop
+    Rename
+    Truncate
+    Comment
+DCL (Data Control Language)
+    Grant
+    Revoke
+Transaction Control
+    Commit
+    Rollback
+    Savepoint
